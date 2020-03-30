@@ -33,8 +33,8 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ---
 <h2 align="center">
- Desenvolvido por <img alt="Milton logo" src="./assets/milton.png" width="200px" align="center">
- </h2>
-
+ Desenvolvido por 
+</h2>
+<img alt="Milton logo" src="./assets/milton.png" width="200px" align="center">
 
 
