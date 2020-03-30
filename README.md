@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
   #  <img alt="Milton logo" src="./assets/milton.png" width="100px" align="center">
 
 <h1>
@@ -37,5 +37,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 # Conversor de moedas desenvolvido com react.
 
 
-![conversor-de-moedas](https://user-images.githubusercontent.com/59883520/77487032-0f183c00-6e10-11ea-9b44-7b48fd7cd72f.png)
->>>>>>> b1f81367292990b9cd542f15b5178ce4e22a869d
