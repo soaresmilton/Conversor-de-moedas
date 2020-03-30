@@ -3,7 +3,7 @@
   <img alt="Icone react" src="./assets/react.svg" width="50px" align="center">
 </h1>
 
-# Projeto  <img alt="icone mobile" src="./assets/mobileicon.svg" width="50px" align="center">
+## Projeto  <img alt="icone mobile" src="./assets/mobileicon.svg" width="50px" align="center">
   <p>
     Conversor de moedas simples, que consome uma API específica para estar sempre atualizado.
   </p>
@@ -11,14 +11,14 @@
 
 ![Layout do conversor](assets/layout.png)
 
-# Tecnologias usadas <img alt="rocket icon" src="./assets/rocket.svg" width="50px" align="center">
+## Tecnologias usadas <img alt="rocket icon" src="./assets/rocket.svg" width="50px" align="center">
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://nodemon.io/)
 
-# Como contribuir 
+## Como contribuir 
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -27,7 +27,7 @@
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-# :memo: Licença
+## :memo: Licença
 
 <p>Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.</p>
 
