@@ -32,8 +32,9 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <p>Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.</p>
 
 ---
-
-Desenvolvido por <img alt="Milton logo" src="./assets/milton.png" width="200px" align="center">
+<h2 align="center">
+ Desenvolvido por <img alt="Milton logo" src="./assets/milton.png" width="200px" align="center">
+ </h2>
 
 
 
