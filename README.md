@@ -1,5 +1,5 @@
 
-  #  <img alt="Milton logo" src="./assets/milton.png" width="100px" align="center">
+  #  <img alt="Milton logo" src="./assets/milton.png" width="250px" align="center">
 
 <h1>
  Conversor de moedas utilizando React 
