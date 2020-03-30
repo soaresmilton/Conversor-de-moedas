@@ -1,6 +1,3 @@
-
-  #  <img alt="Milton logo" src="./assets/milton.png" width="250px" align="center">
-
 <h1>
  Conversor de moedas utilizando React 
   <img alt="Icone react" src="./assets/react.svg" width="50px" align="center">
@@ -34,6 +31,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 <p>Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.</p>
 =======
+Desenvolvido por <img alt="Milton logo" src="./assets/milton.png" width="200px" align="center">
 
 
 
