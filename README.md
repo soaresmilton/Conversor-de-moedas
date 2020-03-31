@@ -14,7 +14,7 @@
 ## Tecnologias usadas <img alt="rocket icon" src="./assets/rocket.svg" width="50px" align="center">
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [React.js](https://reactjs.org)
 - [Express](https://expressjs.com/pt-br/)
 - [Nodemon](https://nodemon.io/)
 
